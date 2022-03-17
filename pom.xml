@@ -21,9 +21,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <profiles>
-<profile>
-     <id>spring-deploy</id>
+
  <distributionManagement>
     <repository>
       <id>coreapp-release</id>
@@ -36,6 +34,5 @@
       <url>http://ec2-34-250-199-40.eu-west-1.compute.amazonaws.com:8081/repository/coreapp-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
-</profile>
-  </profiles>
+
 </project>
