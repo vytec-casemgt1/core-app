@@ -27,14 +27,14 @@
       <uniqueVersion>flase</uniqueVersion>
       <id>coreapp-release</id>
       <name>coreapp-release</name>
-      <url>http://ec2-34-250-199-40.eu-west-1.compute.amazonaws.com:8081/repository/coreapp-release/</url>
+      <url>http://ec2-3-250-55-165.eu-west-1.compute.amazonaws.com:8081/repository/coreapp-snapshot/</url>
        <layout>legacy</layout> 
     </repository>
     <snapshotRepository>
       <uniqueVersion>flase</uniqueVersion>
       <id>coreapp-snapshot</id>
       <name>coreapp-snapshot</name>
-      <url>http://ec2-34-250-199-40.eu-west-1.compute.amazonaws.com:8081/repository/coreapp-snapshot/</url>
+      <url>http://ec2-3-250-55-165.eu-west-1.compute.amazonaws.com:8081/repository/coreapp-snapshot/</url>
       <layout>legacy</layout> 
    </snapshotRepository>
   </distributionManagement>
