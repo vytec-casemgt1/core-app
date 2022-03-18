@@ -13,6 +13,14 @@
     <maven.compiler.source>1.8</maven.compiler.source>
 </properties>
   
+  <repositories>
+       <repository>
+         <id>maven-public</id>
+         <name>your custom repo</name>
+         <url>http://ec2-3-250-55-165.eu-west-1.compute.amazonaws.com:8081/repository/maven-public/</url>
+       </repository>
+     </repositories>
+  
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
