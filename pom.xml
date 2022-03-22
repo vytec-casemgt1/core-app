@@ -42,7 +42,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>coreapp-release</id>
       <name>coreapp-release</name>
-      <url>http://ec2-3-250-55-165.eu-west-1.compute.amazonaws.com:8081/repository/coreapp-snapshot/</url>
+      <url>http://172.31.22.166:8081/repository/coreapp-snapshot/</url>
        <layout>legacy</layout> 
     </repository>
     <snapshotRepository>
